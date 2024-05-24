@@ -1,22 +1,22 @@
 # Zomato
 Hi, So this is a Project on Zomato Restaurant Analysis. The Dataset Contains 9551 Rows with Data details such as
-★ RetaurantID
-★Restaurantname
-★Countrycode
-★City
-★Address 
-★Location
-★Longitude
-★Latitude
-★Cuisines
-★Currency
-★Average Cost of Two
-★Has Online Delivery
-★Has Table Booking
-★Votes
-★Ratings
-★Date
-★Country
+#★ RetaurantID
+#★Restaurantname
+#★Countrycode
+#★City
+#★Address 
+#★Location
+#★Longitude
+#★Latitude
+#★Cuisines
+#★Currency
+#★Average Cost of Two
+#★Has Online Delivery
+#★Has Table Booking
+#★Votes
+#★Ratings
+#★Date
+#★Country
 We had the 𝗗𝗮𝘁𝗮𝘀𝗲𝘁 of around 𝟵𝟱𝟱𝟭 𝗥𝗼𝘄𝘀. 
 This project involved analyzing Zomato restaurant data using 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗘𝘅𝗰𝗲𝗹 functions and creating interactive dashboards 𝘄𝗶𝘁𝗵𝗼𝘂𝘁 𝗕𝗜 Tools in MS Excel and PowerBI and Tableau itself. Queries have been written in MySQL to extract the KPIs
 The objectives of the project were:
