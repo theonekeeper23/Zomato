@@ -1,9 +1,9 @@
 # Zomato
-Hi, So this is a Project on Zomato Restaurant Analysis. The Dataset Contains 9551 Rows with Data details such as
-#★ RetaurantID
-#★Restaurantname
-#★Countrycode
-#★City
+Hi, So this is a Project on Zomato Restaurant Analysis. The Dataset Contains 9551 Rows with Data details such as\
+★ RetaurantID\
+★Restaurantname
+★Countrycode
+★City
 #★Address 
 #★Location
 #★Longitude
